@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57698869206",
+    "project_id": "kucho-a24e8",
+    "storage_bucket": "kucho-a24e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57698869206:android:2f4e7814f8fc1806d18e77",
+        "android_client_info": {
+          "package_name": "pe.kucho.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmP9Sesa-yh36iMnkkAWY8080eXgByVJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
